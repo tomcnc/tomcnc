@@ -25,13 +25,13 @@ My current research centers on applying advanced computational models to the ana
 
 This section showcases my background in software development and high-performance computing.
 
-| Category | Key Competencies |<!-- Relevant Projects (See Repositories) | -->
-| :--- | :--- |<!-- aggiungere 2punti e tre trattini per scommentare |-->
-| **Core Development** | **Fortran** (thesis current focus), **C++**, **Python** (NumPy, SciPy, Matplotlib). | <!-- Thesis code and HPC implementations. |-->
-| **Future Languages** | **Julia** e **Rust** (Attivamente in Apprendimento per Performance Computing). | <!-- [Nomina qui una repo di studio/test]. |-->
-| **Numerical Simulation** | **Monte Carlo Methods** (Metropolis Algorithm), **Molecular Dynamics (MD)**, Stochastic Algorithms. |<!-- NSL - Numerical Simulation Lab. |-->
-| **High-Performance Comp.** | **Code Parallelization (HPC)**, Optimization, Introduction to **Blockchain** Concepts (under study). |<!-- [Name of your HPC exercises repo].|-->
-| **Machine Learning** | **Deep Learning** (Implementations of **FFNN** and **CNN**). |<!-- [Name of a relevant ML project repo, if applicable]. |-->
+| Category | Key Competencies | Relevant Projects |
+| :--- | :--- | :--- |
+| **Core Development** | **Fortran** (thesis current focus), **C++**, **Python** (NumPy, SciPy, Matplotlib). | Thesis code and HPC implementations. |
+| **Future Languages** | **Julia** e **Rust** (Attivamente in Apprendimento per Performance Computing). | soon |
+| **Numerical Simulation** | **Monte Carlo Methods** (Metropolis Algorithm), **Molecular Dynamics (MD)**, Stochastic Algorithms. | NSL - Numerical Simulation Lab. |
+| **High-Performance Comp.** | **Code Parallelization (HPC)**, Optimization, Introduction to **Blockchain** Concepts (under study). | soon |
+| **Machine Learning** | **Deep Learning** (Implementations of **FFNN** and **CNN**). | soon |
 
 ---
 
