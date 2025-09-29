@@ -26,7 +26,7 @@ My current research centers on applying advanced computational models to the ana
 This section showcases my background in software development and high-performance computing.
 
 | Category | Key Competencies |<!-- Relevant Projects (See Repositories) | -->
-| :--- | :--- | :--- |
+| :--- | :--- |<!-- aggiungere 2punti e tre trattini per scommentare |-->
 | **Core Development** | **Fortran** (thesis current focus), **C++**, **Python** (NumPy, SciPy, Matplotlib). | <!-- Thesis code and HPC implementations. |-->
 | **Future Languages** | **Julia** e **Rust** (Attivamente in Apprendimento per Performance Computing). | <!-- [Nomina qui una repo di studio/test]. |-->
 | **Numerical Simulation** | **Monte Carlo Methods** (Metropolis Algorithm), **Molecular Dynamics (MD)**, Stochastic Algorithms. |<!-- NSL - Numerical Simulation Lab. |-->
@@ -61,8 +61,7 @@ My education extends beyond academia. My athletic experience has shaped my appro
 -->
 ## 🤝 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/
-tommaso-canclini])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/tommaso-canclini])
 
 | Contact | Detail |
 | :--- | :--- |
