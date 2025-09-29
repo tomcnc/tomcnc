@@ -1,4 +1,4 @@
-# Hi! I'm [Tommaso] 👋
+# Hi! I'm Tommaso 👋
 
 ## 🚀 Computational Astrophysics and High-Performance Algorithm Development
 
