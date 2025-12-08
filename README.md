@@ -27,10 +27,10 @@ This section showcases my background in software development and high-performanc
 
 | Category | Key Competencies | Relevant Projects |
 | :--- | :--- | :--- |
-| **Core Development** | **Fortran** (thesis current focus), **C++**, **Python** (NumPy, SciPy, Matplotlib). | Thesis code and HPC implementations. |
+| **Core Development** | **Fortran** (thesis current focus), **C++**, **Python** (NumPy, SciPy, Matplotlib, Pandas, Keras, TensorFlow, Scikit-Learn). | Thesis code and NSL - Numerical Simulation Lab. |
 | **Future Languages** | **Julia** e **Rust** (under study). | ...soon... |
 | **Numerical Simulation** | **Monte Carlo Methods** (M(RT)^2, VMC), **Molecular Dynamics** (MD), Standard and **Stochastic Optimization algorithms** (GD, MBSGD, SA, Genetic Algorithm, Metaheuristic Algorithms). | NSL - Numerical Simulation Lab. |
-| **High-Performance Comp.** | **Code Parallelization (HPC)**, Optimization, Introduction to **Blockchain** Concepts (under study). | NSL - Numerical Simulation Lab. |
+| **High-Performance Computing (HCP)** | **Code Parallelization** using **OpenMPI** library (**MPI Standard**). | NSL - Numerical Simulation Lab. |
 | **Machine Learning** | **Deep Learning** (Implementations of **FFNN** and **CNN**). | ...soon... |
 
 ---
