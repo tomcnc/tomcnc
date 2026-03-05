@@ -31,7 +31,7 @@ This section showcases my background in software development and high-performanc
 | **Future Languages** | **Julia** e **Rust** (under study). | ...soon... |
 | **Numerical Simulation** | **Monte Carlo Methods** (M(RT)^2, VMC), **Molecular Dynamics** (MD), Standard and **Stochastic Optimization algorithms** (GD, MBSGD, SA, Genetic Algorithm, Metaheuristic Algorithms). | NSL - Numerical Simulation Lab. |
 | **High-Performance Computing (HCP)** | **Code Parallelization** using **OpenMPI** library (**MPI Standard**). | NSL - Numerical Simulation Lab. |
-| **Machine Learning** | **Deep Learning** (Implementations of **FFNN** and **CNN**). | ...soon... |
+| **Machine & Deep Learning** | Implementations of **FFNN** and **CNN**. | NSL - Numerical Simulation Lab. |
 
 ---
 
@@ -43,6 +43,7 @@ My education extends beyond academia. My athletic experience has shaped my appro
     * **FISI National Interest Athlete** for 3 consecutive years.
     * Competed in **European Cup** events.
     * **Winner of the Italian University Championships.**
+    * Competed in **Krasnojarsk XXIX Winter Universiade.**
     * **National U18 Medalist.**
 * **Certified Ski Instructor:** Developed strong skills in **Leadership**, **Clear Communication**, and **Knowledge Transfer** in high-pressure environments.
 * **Mindset:** I approach coding and debugging challenges with the **perseverance** and **resilience** of an athlete, focusing on end-result optimization and performance.
@@ -68,19 +69,3 @@ My education extends beyond academia. My athletic experience has shaped my appro
 | **Personal E-mail** | [tommasocanclini1999@gmail.com](mailto:tommasocanclini1999@gmail.com) |
 | **University E-mail** | [tommaso.canclini@studenti.unimi.it](mailto:tommaso.canclini@studenti.unimi.it) |
 | **University** | University of Milan (@UniMi) |
-
-
-<!--
-**tomcnc/tomcnc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
