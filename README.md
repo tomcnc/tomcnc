@@ -1,3 +1,4 @@
+<!--
 # Hi! I'm Tommaso 👋
 
 ## 🚀 Computational Astrophysics and High-Performance Algorithm Development
@@ -17,7 +18,7 @@ My current research centers on applying advanced computational models to the ana
 | **Study Subject** | A binary system comprised of a **Black Hole** and its **Companion Star**. |
 | **Methodology** | Accurate determination of the **Black Hole Mass** using **X-ray reverberation mapping**. |
 | **Specific Technique** | Measurement of the **time lag** between X-ray photons emitted by the **Corona** and those reflected by the inner **Accretion Disk**. |
-<!--| **Future Development** | Exploring **Rust** and **Julia** for optimization and the creation of high-performance simulation *tools*. |-->
+DA COMMENTARE| **Future Development** | Exploring **Rust** and **Julia** for optimization and the creation of high-performance simulation *tools*.DA COMMENTARE
 
 ---
 
@@ -49,7 +50,7 @@ My education extends beyond academia. My athletic experience has shaped my appro
 * **Mindset:** I approach coding and debugging challenges with the **perseverance** and **resilience** of an athlete, focusing on end-result optimization and performance.
 
 ---
-<!--
+DA COMMENTARE
 ## 📌 Featured Projects
 
 **[Question 1]** Which 3-6 repositories will you "pin" on your profile page? Briefly summarize each below.
@@ -59,7 +60,8 @@ My education extends beyond academia. My athletic experience has shaped my appro
 * **Project 3 (Fortran/Julia/Rust):** [Brief description of a new language study project or a specific implementation].
 
 ---
--->
+DA COMMENTARE
+
 ## 🤝 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tommaso-canclini)
@@ -69,3 +71,4 @@ My education extends beyond academia. My athletic experience has shaped my appro
 | **Personal E-mail** | [tommasocanclini1999@gmail.com](mailto:tommasocanclini1999@gmail.com) |
 | **University E-mail** | [tommaso.canclini@studenti.unimi.it](mailto:tommaso.canclini@studenti.unimi.it) |
 | **University** | University of Milan (@UniMi) |
+-->
